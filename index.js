@@ -1,0 +1,1 @@
+module.exports = `[91m✗[39m`;

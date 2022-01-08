@@ -1,0 +1,23 @@
+{
+  "name": "red-x",
+  "version": "1.0.0",
+  "description": "Red X",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.cjs && node ./test/test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gebbber/red-x.git"
+  },
+  "keywords": [
+    "red",
+    "x"
+  ],
+  "author": "Gregory Everett Brandon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gebbber/red-x/issues"
+  },
+  "homepage": "https://github.com/gebbber/red-x#readme"
+}
